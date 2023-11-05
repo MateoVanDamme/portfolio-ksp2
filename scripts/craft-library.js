@@ -4,7 +4,7 @@ import { showAlert } from './modules/alerts-module.js';
 import { getCraft } from './modules/craft-fetcher-module.js';
 
 //Add navbar
-createNavbar("Scene generation");
+createNavbar("My craft library");
 
 //Add buttons
 addButtonClickListener("btnRedditParajet", 'https://www.reddit.com/r/KerbalSpaceProgram/comments/17kt82m/flying_over_the_ksc2_with_the_new_blackrack/');
