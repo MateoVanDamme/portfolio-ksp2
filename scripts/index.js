@@ -7,3 +7,4 @@ createNavbar("Home");
 //Add buttons
 addButtonClickListener('btnLinkedInMateo', 'https://www.linkedin.com/in/mateo-van-damme-4826a5269/');
 addButtonClickListener('btnGitHubMateo', 'https://github.com/MateoVanDamme');
+addButtonClickListener('btnRedditMateo', 'https://www.reddit.com/user/MateoVanDamme');
